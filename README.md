@@ -4,7 +4,8 @@
 
 This is a study guide made for bootcamp from KU to help learn basic coding languages before class starts.
 
-## Installation\
+## Installation
+
 N/A
 
 ## Usage
